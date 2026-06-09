@@ -1,1 +1,3 @@
-[Connect with me on LinkedIn!](https://linkedin.com/in/nassrin-sharifi)
+## Hi, I'm Nassrin 👋
+
+🔗 [Connect with me on LinkedIn](https://linkedin.com/in/nassrin-sharifi)
